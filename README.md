@@ -140,9 +140,7 @@ This template features a few nice things that can help you keep track of code ch
 
 A lot of this doesn't apply to what we are doing in this activity but is very nice to utilize in your personal projects and you will absolutely see something very similar if you ever go into industry as a software developer.
 
-**Step 8:** Commit this file to your part2 branch and try to make a pull request again. You should now see your lovely template. Fill it out with what information you think is relevant or just throw a nice meme in there and create your PR. 
-
-Isn't that a lot better?
+**Step 8:** Commit this file to your part2 branch and try to make a pull request again. When you pull request again in part 3 you will see this template. If not that is ok make sure your file names are named properly they are case sensitive.
 
 **Step 9:** If GitHub gives you the green light to merge into main then go ahead and do so.
 
@@ -154,7 +152,7 @@ In this part we will cover merge conflicts and how to revert a commit.
 
 **Step 1:** Checkout the `part3` branch and try to run the dino game like we did in part 2. Has something changed?
 
-**Step 2:** Make a pull request to merge the `part3` branch into `main`. Once its created you should now see a warning that there is merge conflicts! Oh no!
+**Step 2:** Make a pull request to merge the `part3` branch into `main`. Once its created you should now see a warning that there is merge conflicts! Oh no! But hey you should have a nice template!
 
 **Step 3:** Click on "Resolve Conflicts". You will then be brought to the conflicts editor. Below is an example of what a single line conflict looks like in the `.gitignore` file.
 
