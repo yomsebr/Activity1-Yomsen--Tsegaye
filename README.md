@@ -114,6 +114,8 @@ When you make a pull request you want it to be descriptive as to what you are ad
 
 **Step 6:** Hop back into vscode on the part 2 branch and create the following folder in the root directory `.github`. This is where we will store our template. GitHub knows to look in this folder. 
 
+**Root Directory:** It is just the very first folder in your repo. In your case it would be anything inside the CIS496-GitActivity-YourName folder.  
+
 **Step 7:** Create a file `pull_request_template.md` and add the following text inside. 
 
 ```md
